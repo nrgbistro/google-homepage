@@ -1,0 +1,1 @@
+This website is made to practice HTML, CSS, and JS skills
